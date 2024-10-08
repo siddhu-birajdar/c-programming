@@ -6,6 +6,11 @@ int main(){
 
     printf("enter the number");
     scanf("%d",&number);
+     if (number==0)
+
+    {
+        printf("\n not even not odd");
+    }
 
     if (number%2==0)
     {
