@@ -1,3 +1,4 @@
+//program to get percentage of 5 subject mark
 #include<stdio.h>
 
 int main(){
