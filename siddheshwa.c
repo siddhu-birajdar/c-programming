@@ -1,3 +1,4 @@
+//program to basic salary of hra,da
 #include<stdio.h>
 
 int main()
