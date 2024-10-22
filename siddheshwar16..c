@@ -1,4 +1,6 @@
 //program for star pattern using while loop
+
+
 #include<stdio.h>
 
 int main()
@@ -24,4 +26,3 @@ int main()
         printf("\n");
         i++;
     }
-
